@@ -1,2 +1,1 @@
-# GitHub_Test-
-TutoHow to Get Started with Github - Beginner Tutorial 
+TestGit Hub is a repository for showing the bare minimums of GitHub and how to maneuver, function, etc.
